@@ -3,7 +3,6 @@
   "name": "Video Scroller",
   "version": "0.0.1",
   "description": "Use your mouse to scroll through videos",
-  "permissions": ["activeTab", "tabs", "videoCapture"],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
